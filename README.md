@@ -157,10 +157,6 @@ floor(droppedDf["LotFrontage"].max()), int(droppedDf["LotFrontage"].mean()))
 
 ## Results
 
-The model is trained on the dataset and tested on the test dataset. The results are shown demo with Streamlit below:
+The model is trained on the dataset and tested on the test dataset. The results are shown with Streamlit below:
 
 [Streamlit Demo](https://share.streamlit.io/uzunb/house-prices-prediction-lgbm/main/main.py)
-
-## Contributions
-
-* Batuhan UZUN
