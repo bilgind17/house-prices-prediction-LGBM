@@ -93,7 +93,7 @@ for feature in obj_feat:
 
 prediction = loaded_model.predict(inputDf)
 
-st.write("### Prediction: ", prediction.item())
+st.write("### Price Prediction For Your Selections: ", prediction.item())
 
 st.write("###### Group 2 | Week 4 - Machine Learning Model Deployment")
 st.write("Date: 2020-05-20")
